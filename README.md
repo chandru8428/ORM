@@ -43,7 +43,8 @@ class userAdmin(admin.ModelAdmin):
 # OUTPUT
 Include the screenshot of your admin page.
 ![Screenshot 2024-12-06 212909](https://github.com/user-attachments/assets/b20a788c-024b-49fe-b5ef-6701d3b0dfe6)
-
+![WhatsApp Image 2024-12-19 at 13 58 45_5d0c163e](https://github.com/user-attachments/assets/e935a768-1abd-4720-9a33-638ff47dffc0)
+![image](https://github.com/user-attachments/assets/2abd5f72-2433-45c0-8e79-e30073324939)
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
